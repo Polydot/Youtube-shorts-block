@@ -1,0 +1,13 @@
+{
+    "ext_desc":{"message": "Speel YouTube Shorts af alsof het normale videos zijn."},
+    "cfg_hide_tab":{"message": "verberg de \"shorts\" sectie"},
+    "cfg_hide_video":{"message": "verberg shorts (instabiel)"},
+    "cfg_warn_col":{"message": "Waarschuwing!"},
+    "cfg_warn_msg":{"message": " Kan soms niet werken!"},
+    "cfg_warn_fb":{"message": "Feedback"},
+    "cfg_warn_or":{"message": "of"},
+    "cfg_warn_pr":{"message": "Pull request"},
+    "cfg_ver":{"message": "Toon release notities"},
+    "ui_openIn_view": {"message": "inStandaard"},
+    "ui_openIn_title":{"message": "Openen in standaard speler (Nieuw Tabblad)"}
+}
